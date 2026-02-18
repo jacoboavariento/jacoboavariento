@@ -9,7 +9,7 @@ Web2 contributions 🏅
 * Authored some Metasploit modules (like [SAP Management Console](https://github.com/rapid7/metasploit-framework/blob/master/modules/auxiliary/scanner/sap/sap_mgmt_con_listconfigfiles.rb)) or implemented [TrustedSec PTF in a docker](https://github.com/trustedsec/ptf/blob/master/Dockerfile) container or multiple contributions to `nikto`  🛠️
 
 Web3 contributions 🏅
-* Auditing Protocol Smart Contracts for Rootstock blockchain (TVL: $128 million)
+* Auditing Protocol Smart Contracts for Rootstock blockchain (TVL: $128 million) doing security audits and implementing fuzzing and invariant testing to validate the protocol
 * Developed https://app.smartauditor.ai to bring smart contract audits to the masses
 * Awarded a query in Glider contest [`Missing Storage Gap in Upgradeable Contracts Leads to Storage Slot Collisions`](https://r.xyz/glider-query-database/query/692dc438b0c21f8e0b1ea7bd)
 * Reported vulnerabilities to Linen Wallet (HackenProof) and Aurora (Immunefi)
