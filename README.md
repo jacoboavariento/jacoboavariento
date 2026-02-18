@@ -24,3 +24,4 @@ Certifications, badges, ... 📚
 
 Contact:
 * https://www.linkedin.com/in/jacoboavariento/
+* https://x.com/smartauditorAI
