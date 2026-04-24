@@ -10,8 +10,7 @@ Web2 contributions 🏅
 
 Web3 contributions 🏅
 * Auditing Protocol Smart Contracts for Rootstock blockchain (TVL: $128 million) doing security audits and implementing fuzzing and invariant testing to validate the protocol
-* Developed https://app.smartauditor.ai to bring smart contract audits to the masses
-* Awarded a query in Glider contest [`Missing Storage Gap in Upgradeable Contracts Leads to Storage Slot Collisions`](https://r.xyz/glider-query-database/query/692dc438b0c21f8e0b1ea7bd) & [`ERC-4626 share inflation attack`](https://r.xyz/glider-query-database/query/69507905528d1efb51ffe054)
+* Awarded a query in Glider contest [`Missing Storage Gap in Upgradeable Contracts Leads to Storage Slot Collisions`](https://r.xyz/glider-query-database/query/692dc438b0c21f8e0b1ea7bd) and [`ERC-4626 share inflation attack`](https://r.xyz/glider-query-database/query/69507905528d1efb51ffe054)
 * Reported vulnerabilities to Linen Wallet ([HackenProof](https://hackenproof.com/hackers/bugbountydegen)) and Aurora (Immunefi)
 
 Certifications, badges, ... 📚
