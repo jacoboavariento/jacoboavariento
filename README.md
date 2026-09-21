@@ -12,7 +12,7 @@ Web3 experience & contributions 🏅
 * Managing security at [Midas](https://midas.app) (TVL: $682 million)
 * Auditing Protocol Smart Contracts for [Rootstock](https://rootstock.io/) blockchain (TVL: $128 million) doing security audits and implementing fuzzing and invariant testing to validate the protocol
 * Awarded a query in Glider contest [`Missing Storage Gap in Upgradeable Contracts Leads to Storage Slot Collisions`](https://r.xyz/glider-query-database/query/692dc438b0c21f8e0b1ea7bd) and [`ERC-4626 share inflation attack`](https://r.xyz/glider-query-database/query/69507905528d1efb51ffe054)
-* Reported vulnerabilities to Linen Wallet ([HackenProof](https://hackenproof.com/hackers/bugbountydegen)) and Aurora (Immunefi)
+* Reported vulnerabilities to Linen Wallet ([HackenProof](https://hackenproof.com/hackers/zerodaydefi)) and Aurora (Immunefi)
 * Contributed to Solana security awareness with post-mortems of opsec failures: privileged keys, stake authority, durable nonces, and Squads config: [https://github.com/jacoboavariento/solana-security-incidents](https://github.com/jacoboavariento/solana-security-incidents)
 * Developed AlertZero: Portfolio trackers show what you hold. AlertZero watches whether it's safe. [https://alertzero.io/](https://alertzero.io/)
 
